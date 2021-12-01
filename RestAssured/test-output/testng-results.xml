@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5836" started-at="2021-12-01T12:09:28 IST" finished-at="2021-12-01T12:09:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5836" started-at="2021-12-01T12:09:28 IST" finished-at="2021-12-01T12:09:34 IST">
+      <class name="APITesting.Demo_TestNg">
+        <test-method status="PASS" signature="createboard()[pri:0, instance:APITesting.Demo_TestNg@1d8db5a]" name="createboard" duration-ms="4382" started-at="2021-12-01T12:09:28 IST" finished-at="2021-12-01T12:09:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createboard -->
+        <test-method status="PASS" signature="getboard()[pri:1, instance:APITesting.Demo_TestNg@1d8db5a]" name="getboard" duration-ms="565" started-at="2021-12-01T12:09:32 IST" finished-at="2021-12-01T12:09:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getboard -->
+        <test-method status="PASS" signature="deleteboard()[pri:2, instance:APITesting.Demo_TestNg@1d8db5a]" name="deleteboard" duration-ms="830" started-at="2021-12-01T12:09:33 IST" finished-at="2021-12-01T12:09:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteboard -->
+      </class> <!-- APITesting.Demo_TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
